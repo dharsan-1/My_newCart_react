@@ -1,0 +1,62 @@
+.first-background {
+  background-image: linear-gradient(#6232a8, #924cd9, #56208c);
+  background-size: cover;
+  margin: 0px;
+  height: 100vh;
+}
+.companylogocon {
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5px;
+  background-color: orange;
+  border-radius: 5px;
+}
+.logo {
+  font-family: cursive;
+  font-weight: bolder;
+  color: black;
+  padding-left: 20px;
+}
+.para-logo {
+  color: black;
+  font-family: fantasy;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.img-login-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.img-login {
+  height: 400px;
+  width: 700px;
+}
+.form-div {
+  background-color: white;
+  border-radius: 10px;
+  padding: 100px;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background-color: blue;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.wrong_crediantdiatls {
+  color: red;
+  padding-top: 20px;
+}

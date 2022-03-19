@@ -1,0 +1,41 @@
+.displayHomeCon {
+  background-color: blueviolet;
+  background-size: cover;
+  margin: 0px;
+}
+.container_2 {
+  background-color: antiquewhite;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.home_class {
+  color: black;
+  font-weight: bolder;
+}
+.button {
+  color: white;
+  text-align: center;
+  background-color: blue;
+  border-radius: 10px;
+  padding: 10px;
+}
+.buttonCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.videoCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.video_player {
+  border-radius: 10px;
+  height: 500px;
+  width: 500px;
+}
